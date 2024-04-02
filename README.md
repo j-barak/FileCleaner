@@ -18,5 +18,5 @@ This script is compatible with both Windows and Linux operating systems.
 
 ## Usage
 
-Clone the repo and navigate to the script`s folder. You can redact the extension`s as needed, then run the script.
+Clone the repo and navigate to the script's folder. You can redact the extension's as needed, then run the script.
 Note: python env should be installed on the OS before running the script. 
